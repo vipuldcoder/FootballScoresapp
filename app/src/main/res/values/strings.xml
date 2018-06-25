@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Football Scores app</string>
+
+    <!-- TeamA Label-->
+    <string name="label_teamA">FRANCE</string>
+
+    <!-- Team Score -->
+    <string name="score_card">0</string>
+
+    <!-- Button Text Score Value -->
+    <string name="score_three">Touch Down</string>
+    <string name="score_two">Field Goal</string>
+    <string name="free_throw">Safety</string>
+
+    <!--TeamB Label -->
+    <string name="label_teamB">SPAIN</string>
+
+    <!--Rest Button Text -->
+    <string name="reset_text">Reset</string>
+</resources>

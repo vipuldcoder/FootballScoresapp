@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--TeamA Padding Overall-->
+    <dimen name="padding">16dp</dimen>
+
+    <!--TeamA TextSize-->
+    <dimen name="text_size">14sp</dimen>
+
+    <!-- TeamA Score padding-->
+    <dimen name="padding_bottom">24dp</dimen>
+
+    <!-- View Tag -->
+    <dimen name="margin_top_view">16dp</dimen>
+
+    <!-- Team Score Size-->
+    <dimen name="score_board">56sp</dimen>
+
+    <!-- Teams Score Margin Botttom-->
+    <dimen name="margin_bottom">8dp</dimen>
+    <dimen name="margin_left_right">24dp</dimen>
+
+    <!--Reset Margins -->
+    <dimen name="reset_margin">22dp</dimen>
+
+    //Size for logo
+    <dimen name="size_width">150dp</dimen>
+    <dimen name="size_height">150dp</dimen>
+
+</resources>
